@@ -38,7 +38,7 @@
         },
         {
             "id":1,
-            "remoteUrl":"https://gitee.com/mumu-osc/NiceFish.git", 
+            "remoteUrl":"https://username:password@gitee.com/mumu-osc/NiceFish.git",   #Private Library User Name Password Format
             "savePath":"./test1"
         }
     ]
