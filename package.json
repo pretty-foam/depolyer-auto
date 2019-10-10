@@ -1,6 +1,6 @@
 {
   "name": "node-deployer-auto",
-  "version": "1.0.23",
+  "version": "1.0.25",
   "description": "Automated deployment code ",
   "preferGlobal": true,
   "main": "index.js",
@@ -16,5 +16,12 @@
   },
   "bin": {
     "atd": "./src/order.js"
+  },
+  "bugs": {
+    "url": "https://github.com/pretty-foam/depolyer-auto/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pretty-foam/depolyer-auto.git"
   }
 }

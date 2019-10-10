@@ -59,6 +59,7 @@
   stop:    atd stop 
   restart: atd restart
   addConfig:  atd add ***.json
+  error Logs: pm2 logs
 ```
 
 
@@ -101,7 +102,7 @@
         },
         {
             "id":1,
-            "remoteUrl":"https://gitee.com/mumu-osc/NiceFish.git", 
+            "remoteUrl":"https://username:password@gitee.com/mumu-osc/NiceFish.git",   #私有库用户名密码格式 
             "savePath":"./test1"
         }
     ]
@@ -122,6 +123,7 @@
   停止  atd stop 
   重启  atd restart
   添加配置 atd add ***.json
+  查看错误日记 pm2 logs
 ```
 
 
