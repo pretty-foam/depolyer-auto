@@ -1,6 +1,6 @@
 {
   "name": "node-deployer-auto",
-  "version": "1.0.26",
+  "version": "1.0.28",
   "description": "Automated deployment code ",
   "preferGlobal": true,
   "main": "index.js",

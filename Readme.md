@@ -1,6 +1,8 @@
 ## Introduction 
 
- Automated deployment of code to support all git repositories
+ Automatic update of static resources on the server, supporting all git warehouses
+
+
 
 
 ###Install 
@@ -16,7 +18,7 @@
 
    For example, github:
    
-   ![Watch the video](http://m.qpic.cn/psb?/V14A7ZHX05CkWj/tQ7fUWgHSt7pftnTHLIowvr8Cbu7H2CVMsxLkkP0vrU!/b/dEwBAAAAAAAA&bo=*wKoAQAAAAADB3Y!&rf=viewer_4)
+   ![Watch the video](https://camo.githubusercontent.com/973a2f2ed9c869364787b03f2132900cfb3f25a1/687474703a2f2f6d2e717069632e636e2f7073623f2f56313441375a48583035436b576a2f74513766555767485374377066746e54484c496f7776723843627537483243564d73784c6b6b5030767255212f622f64457742414141414141414126626f3d2a774b6f4151414141414144423359212672663d7669657765725f34)
 
    Secret Fill in freely     
 
@@ -66,7 +68,7 @@
 
 ## 介绍
 
- 自动化部署代码，支持所有git仓库
+ 服务端静态资源自动化更新，支持所有git仓库
 
 ###安装 
 
